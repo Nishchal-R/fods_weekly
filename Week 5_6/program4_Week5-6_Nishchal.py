@@ -5,10 +5,7 @@ import csv
 f = ["Name","Year","GPA"]
 
 r =[
-    ["Siron","2008","3.71"],
-    ["Sanita","2007","3.50"],
-    ["Garima","2006","3.15"],
-    ["Arika","2006","2.95"]
+    ["Nishchal","2006","3.43"],
 ]
 
 fn = "program4.csv"
